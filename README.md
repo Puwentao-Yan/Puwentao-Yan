@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Puwentao, undergraduate student at UVic, Canada!
+- 🌱 I’m currently studying Combined Computer Science and Statistics.
