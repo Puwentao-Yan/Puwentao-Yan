@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Puwentao, undergraduate student at UVic, Canada!
-- 🌱 I’m currently studying Combined Computer Science and Statistics.
+- 👋 Hi, I’m Puwentao, a recent graduate from the University of Victoria with a Bachelor of Science in Computer Science and Statistics.
+- 🔥 I am passionate about leveraging my skills in data analysis and system development to solve complex problems and support organizational goals.
