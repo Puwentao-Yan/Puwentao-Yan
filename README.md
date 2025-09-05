@@ -1,4 +1,4 @@
-![Header](assets/tao_header.png "Header")
+![Header](assets/blob_wava.png "Header")
 
 # Hi, there! <img width="30" src=assets/blob_wave.png alt="party blob" />
 
