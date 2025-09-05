@@ -1,6 +1,6 @@
 ![Header](assets/tao_header.png "Header")
 
-# Hi, there! <img width="30" src="blob_wave.png" alt="party blob" />
+# Hi, there! <img width="30" src=assets/blob_wave.png alt="party blob" />
 
 
 ![version](https://img.shields.io/badge/version-2025-informational) &nbsp;
