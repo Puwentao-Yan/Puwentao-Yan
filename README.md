@@ -64,6 +64,8 @@
 ### 🤝🏻 Connect with Me
 
 ✉️ &nbsp;Reach me at <a href="mailto:yanpuwentao@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+
 📄 &nbsp;Connect with me on <a href="https://www.linkedin.com/in/puwentao-yan/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp; 
+
 🔗 &nbsp;Check out my projects on <a href="https://github.com/Puwentao-Yan"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/></a> &nbsp;
 
