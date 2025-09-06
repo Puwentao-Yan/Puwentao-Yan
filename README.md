@@ -24,7 +24,7 @@
 
 - 💻 Programming Languages
   
-    [![python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python)](https://www.python.org)&nbsp;
+    [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)&nbsp;
     [![R](https://img.shields.io/badge/-script-276DC3.svg?style=flat&logo=R)](https://cran.r-project.org)&nbsp;
     [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)&nbsp;
     [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)&nbsp;
@@ -60,7 +60,7 @@
 
 ---
 
-### 🤝🏻 Connect with Me
+### 🤝🏻 Connect with Me <img src="https://i.gifer.com/V1nz.gif" alt="" width="21" />
 
 ✉️ &nbsp;Reach me at <a href="mailto:yanpuwentao@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
