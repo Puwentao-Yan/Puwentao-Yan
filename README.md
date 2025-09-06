@@ -6,7 +6,6 @@
 ![version](https://img.shields.io/badge/version-2025-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=Puwentao-Yan&color=blue) &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/Puwentao-Yan?label=Follow&style=social)](https://github.com/Puwentao-Yan) &nbsp;
-![build: learning](https://img.shields.io/badge/build-learning-success)
 
 ---
 
