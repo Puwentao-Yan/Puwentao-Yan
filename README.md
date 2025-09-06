@@ -14,16 +14,18 @@
 
 🎓 &nbsp;I completed my **BSc in Computer Science & Statistics** at the University of Victoria.  
 💡 &nbsp;I enjoy exploring **data analytics, machine learning, and software development** to turn complex problems into meaningful insights.  
-📊 &nbsp;My experiences include building ML models, designing relational databases, and collaborating on agile software projects.  
-🌍 &nbsp;Motivated by opportunities where technology supports **communities and sustainability**.  
+📊 &nbsp;My experiences include building ML models, designing relational databases, and collaborating on agile software projects.   
+🌍 &nbsp;Motivated by opportunities where technology supports **communities and sustainability**.   
 💬 &nbsp;Always curious to learn, share, and collaborate on data-driven ideas.  
+🎯 &nbsp;Outside of work, I enjoy **camping in nature, playing strategy board games, and experimenting with new recipes in the kitchen**.
 
 ---
 
 ### 🛠️Tech Stack
-- 👩‍💻 Programming Languages
+
+- 💻 Programming Languages
   
-    [![python](https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python)](https://www.python.org)&nbsp;
+    [![python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python)](https://www.python.org)&nbsp;
     [![R](https://img.shields.io/badge/-script-276DC3.svg?style=flat&logo=R)](https://cran.r-project.org)&nbsp;
     [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)&nbsp;
     [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)&nbsp;
@@ -32,7 +34,7 @@
     [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)&nbsp;
     [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)&nbsp;
 
-- 👩‍💻 Data Analysis & Databases
+- 📊 Data Analysis & Databases
 
     [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)&nbsp;
     [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)&nbsp;
@@ -42,7 +44,7 @@
     [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)&nbsp;
     [![Seaborn](https://img.shields.io/badge/Seaborn-3884FF?logo=Seaborn&logoColor=fff)](#)&nbsp;
 
-- 👩‍💻 Machine Learning & AI
+- 🤖 Machine Learning & AI
 
     [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)](#)&nbsp;
     [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)](#)&nbsp;
@@ -50,7 +52,7 @@
     [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-orange?logo=huggingface&logoColor=#FFD21E)](#)&nbsp;
     [![YOLO](https://img.shields.io/badge/Ultralytics%20YOLO-0B23A9?logo=YOLO&logoColor=fff)](#)&nbsp;
 
-- 👩‍💻 Developer Tools & Platforms
+- 🔧 Developer Tools & Platforms
 
     [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)&nbsp;
     [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)&nbsp;
@@ -59,6 +61,7 @@
 
 ---
 
+### 🤝🏻 Connect with Me
 ✉️ &nbsp;Reach me at **yanpuwentao@gmail.com**  
 📄 &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/puwentao-yan/)  
 🔗 &nbsp;Check out my projects on [GitHub](https://github.com/Puwentao-Yan) 
