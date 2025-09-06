@@ -13,7 +13,7 @@
 ### 👨🏻‍💻 &nbsp;About Me  
 
 🎓 &nbsp;I completed my **BSc in Computer Science & Statistics** at the University of Victoria.  
-💡 &nbsp;I enjoy exploring **data analytics, machine learning, and systems development** to turn complex problems into meaningful insights.  
+💡 &nbsp;I enjoy exploring **data analytics, machine learning, and software development** to turn complex problems into meaningful insights.  
 📊 &nbsp;My experiences include building ML models, designing relational databases, and collaborating on agile software projects.  
 🌍 &nbsp;Motivated by opportunities where technology supports **communities and sustainability**.  
 💬 &nbsp;Always curious to learn, share, and collaborate on data-driven ideas.  
